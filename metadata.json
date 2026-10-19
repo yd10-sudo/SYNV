@@ -1,0 +1,7 @@
+{
+  "name": "랜덤 뽑기 (Simple Picker)",
+  "description": "누구나 쉽고 빠르게 사용할 수 있는 깔끔한 랜덤 뽑기 및 추첨 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
